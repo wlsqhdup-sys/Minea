@@ -1,1 +1,2 @@
 lieo=10
+darknum=100
